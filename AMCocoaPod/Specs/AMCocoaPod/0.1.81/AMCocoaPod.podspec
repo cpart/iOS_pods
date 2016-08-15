@@ -96,7 +96,7 @@ THE SOFTWARE."}
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "git@bitbucket.org:adaptmobile/mobile-libs.git", :tag => "0.1.81" }
+  s.source       = { :git => "https://github.com/cpart/iOS_pods.git", :tag => "0.1.81" }
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
